@@ -60,3 +60,9 @@ dkms.conf
 
 # Build folder
 [Bb]uild
+
+# macos
+.DS_Store
+
+# cmake
+build/
